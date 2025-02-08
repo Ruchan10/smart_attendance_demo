@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "383136500392",
+      "firebase_url": "https://18ad7-default-rtdb.firebaseio.com",
+      "project_id": "18ad7",
+      "storage_bucket": "18ad7.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:383136500392:android",
+          "android_client_info": {
+            "package_name": "com.ruchan.smartatt.demo"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "383136500392.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA2Zq4fQ-RzU_-dOVw1B2Nz-kaQnd6xc00"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "383136500392.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
