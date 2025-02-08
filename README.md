@@ -2,8 +2,6 @@
 
 **Smart Attendance** is a demo mobile application designed for efficient attendance management and notifications. This project showcases the core features of the app without connecting to real-world APIs.
 
-![Smart Attendance](https://via.placeholder.com/600x300) *(Replace this with an actual app screenshot)*
-
 ---
 
 ## **🚀 Features**
@@ -25,15 +23,31 @@
 ---
 
 ## **📸 Screenshots**
-*(Add images here to showcase the UI.)*  
+
+| <img src="https://raw.githubusercontent.com/Ruchan10/smart_attendance_demo/master/assets/screenshots/flutter_04.png" width="45%"> | <img src="https://raw.githubusercontent.com/Ruchan10/smart_attendance_demo/master/assets/screenshots/flutter_03.png" width="45%"> |
+
+| <img src="https://raw.githubusercontent.com/Ruchan10/smart_attendance_demo/master/assets/screenshots/flutter_02.png" width="45%"> | <img src="https://raw.githubusercontent.com/Ruchan10/smart_attendance_demo/master/assets/screenshots/flutter_01.png" width="45%"> |
+
+---
+
+## Demo
+To give you a glimpse of how the app works, I'v included a demo version with sample data. You can download the APK file from the **Releases** section.
+
+### Download the Demo
+1. Navigate to the [Releases](https://github.com/Ruchan10/smart_attendance_demo/releases) section of this repository.  
+2. Download the latest demo APK.  
+3. Install the APK on your Android device to explore the app.
+
+## Note
+This repository does not contain the source code for the app, as it is proprietary software developed specifically for a client. The demo APK provided here is for demonstration purposes only.
 
 ---
 
 ## **📦 Installation**
 To run the project locally:  
 ```sh
-git clone https://github.com/yourusername/Smart_Attendance-Demo.git
-cd Smart_Attendance-Demo
+git clone https://github.com/Ruchan10/smart_attendance_demo.git
+cd smart_attendance_demo-main
 flutter pub get
 flutter run
 ```
@@ -52,11 +66,6 @@ Feel free to fork this repository and suggest improvements. Open an issue if you
 
 ---
 
-## **📜 License**
-This project is under the **MIT License**.  
-
----
-
-### **👨‍💻 Developed by [Your Name]**
+### **👨‍💻 Developed by Ruchan Kayastha**
 If you like this project, ⭐ the repository and share it! 🚀
 
